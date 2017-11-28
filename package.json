@@ -2,7 +2,7 @@
   "name": "tic-tac-toe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://candreeab.github.io/TicTacToeGame/",
+  "homepage": "http://candreeab.github.io/TicTacToeGame/",
   "dependencies": {
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
